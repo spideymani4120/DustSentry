@@ -1,0 +1,847 @@
+{
+    "timestamp": 1744642461.1200416,
+    "scanned": [
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\HOW TO RUN GAME!!.txt",
+            "age_days": 668.5360646845345,
+            "depth": 1,
+            "weird_metadata": true,
+            "score": 76.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\STEAMUNLOCKED \u00bb Free Steam Games Pre-installed for PC.url",
+            "age_days": 1543.7255236796454,
+            "depth": 1,
+            "weird_metadata": true,
+            "score": 76.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Manifest_NonUFSFiles_Win64.txt",
+            "age_days": 705.7737775151597,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.exe",
+            "age_days": 705.774268548886,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\dotNetFx40_Full_setup.exe",
+            "age_days": 1793.4746824283263,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\dxwebsetup.exe",
+            "age_days": 1543.7244226324392,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\oalinst.exe",
+            "age_days": 1543.7244183750286,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_2015-2019_x64.exe",
+            "age_days": 1543.7244120806429,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_2015-2019_x86.exe",
+            "age_days": 1543.7244062029654,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_x64.exe",
+            "age_days": 1543.7244031829166,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_x86.exe",
+            "age_days": 1543.7244004639597,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\xnafx40_redist.msi",
+            "age_days": 1793.4746825108236,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+            "age_days": 705.7748679981408,
+            "depth": 6,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+            "age_days": 705.773937895218,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+            "age_days": 705.777010807544,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+            "age_days": 705.7753892521974,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+            "age_days": 705.7739259289316,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+            "age_days": 705.773913462678,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+            "age_days": 705.7740847226039,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+            "age_days": 705.7752078141962,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+            "age_days": 705.7740845986593,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+            "age_days": 705.7738036099104,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+            "age_days": 705.7738653406252,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+            "age_days": 705.7739508801699,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+            "age_days": 705.77385307264,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+            "age_days": 705.7739869388469,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+            "age_days": 705.7753174395169,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe",
+            "age_days": 705.773778636955,
+            "depth": 6,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlastExtAuthoring_x64.dll",
+            "age_days": 705.7752690453827,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlastGlobals_x64.dll",
+            "age_days": 705.7738164994865,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlast_x64.dll",
+            "age_days": 705.7739022723199,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Runtime\\Nvidia\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll",
+            "age_days": 705.7739755668739,
+            "depth": 10,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\SDL2.dll",
+            "age_days": 705.7757441555074,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\turbojpeg.dll",
+            "age_days": 705.7764476482266,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\Uncrashed-Win64-Shipping.exe",
+            "age_days": 705.4243127348329,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\Uncrashed-Win64-Shipping.exe.bak",
+            "age_days": 705.7740365676609,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Movies\\XhelixVid.mp4",
+            "age_days": 705.7737908323274,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0-WindowsNoEditor.pak",
+            "age_days": 705.7737791177962,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737910602849,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s1optional-WindowsNoEditor.pak",
+            "age_days": 705.7739391060173,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737791714238,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s3-WindowsNoEditor.pak",
+            "age_days": 705.7737913344359,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk1-WindowsNoEditor.pak",
+            "age_days": 705.7737794454755,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk100-WindowsNoEditor.pak",
+            "age_days": 705.7740371554731,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk1_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737912589422,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2-WindowsNoEditor.pak",
+            "age_days": 705.7737795113165,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737796748512,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s1optional-WindowsNoEditor.pak",
+            "age_days": 705.7737918852794,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737797936962,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s2optional-WindowsNoEditor.pak",
+            "age_days": 705.7738170221448,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk3-WindowsNoEditor.pak",
+            "age_days": 705.7737915488553,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk4-WindowsNoEditor.pak",
+            "age_days": 705.7737917297941,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk4optional-WindowsNoEditor.pak",
+            "age_days": 705.7738664803819,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk5-WindowsNoEditor.pak",
+            "age_days": 705.773779861251,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6-WindowsNoEditor.pak",
+            "age_days": 705.7737798797835,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737924360925,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737801381808,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk7-WindowsNoEditor.pak",
+            "age_days": 705.7737923203188,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk8-WindowsNoEditor.pak",
+            "age_days": 705.773780226964,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Splash\\Splash.bmp",
+            "age_days": 705.7739039251953,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        }
+    ],
+    "suspicious": [
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\HOW TO RUN GAME!!.txt",
+            "age_days": 668.5360646845345,
+            "depth": 1,
+            "weird_metadata": true,
+            "score": 76.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\STEAMUNLOCKED \u00bb Free Steam Games Pre-installed for PC.url",
+            "age_days": 1543.7255236796454,
+            "depth": 1,
+            "weird_metadata": true,
+            "score": 76.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Manifest_NonUFSFiles_Win64.txt",
+            "age_days": 705.7737775151597,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.exe",
+            "age_days": 705.774268548886,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\dotNetFx40_Full_setup.exe",
+            "age_days": 1793.4746824283263,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\dxwebsetup.exe",
+            "age_days": 1543.7244226324392,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\oalinst.exe",
+            "age_days": 1543.7244183750286,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_2015-2019_x64.exe",
+            "age_days": 1543.7244120806429,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_2015-2019_x86.exe",
+            "age_days": 1543.7244062029654,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_x64.exe",
+            "age_days": 1543.7244031829166,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\vcredist_x86.exe",
+            "age_days": 1543.7244004639597,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\_Redist\\xnafx40_redist.msi",
+            "age_days": 1793.4746825108236,
+            "depth": 2,
+            "weird_metadata": true,
+            "score": 82.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+            "age_days": 705.7748679981408,
+            "depth": 6,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+            "age_days": 705.773937895218,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+            "age_days": 705.777010807544,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+            "age_days": 705.7753892521974,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+            "age_days": 705.7739259289316,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+            "age_days": 705.773913462678,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+            "age_days": 705.7740847226039,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+            "age_days": 705.7752078141962,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+            "age_days": 705.7740845986593,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+            "age_days": 705.7738036099104,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+            "age_days": 705.7738653406252,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+            "age_days": 705.7739508801699,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+            "age_days": 705.77385307264,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+            "age_days": 705.7739869388469,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+            "age_days": 705.7753174395169,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe",
+            "age_days": 705.773778636955,
+            "depth": 6,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlastExtAuthoring_x64.dll",
+            "age_days": 705.7752690453827,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlastGlobals_x64.dll",
+            "age_days": 705.7738164994865,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Experimental\\BlastPlugin\\Binaries\\Win64\\NvBlast_x64.dll",
+            "age_days": 705.7739022723199,
+            "depth": 8,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Engine\\Plugins\\Runtime\\Nvidia\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll",
+            "age_days": 705.7739755668739,
+            "depth": 10,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\SDL2.dll",
+            "age_days": 705.7757441555074,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\turbojpeg.dll",
+            "age_days": 705.7764476482266,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\Uncrashed-Win64-Shipping.exe",
+            "age_days": 705.4243127348329,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Binaries\\Win64\\Uncrashed-Win64-Shipping.exe.bak",
+            "age_days": 705.7740365676609,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Movies\\XhelixVid.mp4",
+            "age_days": 705.7737908323274,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0-WindowsNoEditor.pak",
+            "age_days": 705.7737791177962,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737910602849,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s1optional-WindowsNoEditor.pak",
+            "age_days": 705.7739391060173,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737791714238,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk0_s3-WindowsNoEditor.pak",
+            "age_days": 705.7737913344359,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk1-WindowsNoEditor.pak",
+            "age_days": 705.7737794454755,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk100-WindowsNoEditor.pak",
+            "age_days": 705.7740371554731,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk1_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737912589422,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2-WindowsNoEditor.pak",
+            "age_days": 705.7737795113165,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737796748512,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s1optional-WindowsNoEditor.pak",
+            "age_days": 705.7737918852794,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737797936962,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk2_s2optional-WindowsNoEditor.pak",
+            "age_days": 705.7738170221448,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk3-WindowsNoEditor.pak",
+            "age_days": 705.7737915488553,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk4-WindowsNoEditor.pak",
+            "age_days": 705.7737917297941,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk4optional-WindowsNoEditor.pak",
+            "age_days": 705.7738664803819,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk5-WindowsNoEditor.pak",
+            "age_days": 705.773779861251,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6-WindowsNoEditor.pak",
+            "age_days": 705.7737798797835,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6_s1-WindowsNoEditor.pak",
+            "age_days": 705.7737924360925,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk6_s2-WindowsNoEditor.pak",
+            "age_days": 705.7737801381808,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk7-WindowsNoEditor.pak",
+            "age_days": 705.7737923203188,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Paks\\pakchunk8-WindowsNoEditor.pak",
+            "age_days": 705.773780226964,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        },
+        {
+            "path": "C:\\Users\\manis\\Downloads\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed.FPV.Drone.Simulator.v2023.05.05\\Uncrashed\\Content\\Splash\\Splash.bmp",
+            "age_days": 705.7739039251953,
+            "depth": 5,
+            "weird_metadata": true,
+            "score": 100.0
+        }
+    ]
+}
